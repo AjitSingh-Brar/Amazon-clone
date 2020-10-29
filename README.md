@@ -6,10 +6,15 @@ Application allows User Authentication for purchasing the products and redirecti
  ### `User Authentication / Login`
 
   Test login: test321@gmail.com
+  
   Test password: testing
+  
   Test payment card: 4242 4242 4242 4242
+  
   Test expiry date: 04/24
+  
   Testing CVC: 424
+  
   Testing Zip: 24242
 
 
