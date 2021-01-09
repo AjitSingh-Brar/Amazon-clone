@@ -1,7 +1,9 @@
 ## Amazon Clone
 
 The following application is an Amazon clone built with React Js, Express, Node Js and Firebase for the cloud functions following the concepts of (MERN) stack.
-Application allows User Authentication for purchasing the products and redirecting to the payment page. The Payment option is implemented by Stripe payment which accepts payment in developer mode. React Router has been implemenetged to allow navigation between the web pages. In CSS, Flexbox has been used for responsive design.  
+Application allows User Authentication for purchasing the products and redirecting to the payment page. The Payment option is implemented by Stripe payment which accepts payment in developer mode. React Router has been implemenetged to allow navigation between the web pages. In CSS, Flexbox has been used for responsive design. 
+
+This project template has been build for learning-purposes.
   
  ### `User Authentication / Login`
 
